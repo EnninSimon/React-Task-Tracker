@@ -5,6 +5,18 @@
       "day": "27th October, 2021",
       "reminder": true,
       "id": 1
+    },
+    {
+      "text": "Market ",
+      "day": "2021-12-01T11:50",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "PTA Meeting",
+      "day": "2021-12-01T15:56",
+      "reminder": true,
+      "id": 4
     }
   ]
 }

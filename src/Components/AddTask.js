@@ -33,7 +33,7 @@ const AddTask = ({ onAdd }) => {
 
                 <Form.Group className="mb-3" controlId="formBasicPassword">
                     <Form.Label>Day & Time</Form.Label>
-                    <Form.Control type="text" placeholder="Day & Time" value={day} onChange={
+                    <Form.Control type="datetime-local" placeholder="Day & Time" value={day} onChange={
                         (e) => setDay(e.target.value)
                     } />
                 </Form.Group>
